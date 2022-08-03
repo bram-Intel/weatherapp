@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bram-Intel/weatherapp.git/static/css/main.4a45874e.css",
+    "main.js": "/bram-Intel/weatherapp.git/static/js/main.cad28334.js",
+    "index.html": "/bram-Intel/weatherapp.git/index.html",
+    "main.4a45874e.css.map": "/bram-Intel/weatherapp.git/static/css/main.4a45874e.css.map",
+    "main.cad28334.js.map": "/bram-Intel/weatherapp.git/static/js/main.cad28334.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a45874e.css",
+    "static/js/main.cad28334.js"
+  ]
+}
